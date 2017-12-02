@@ -1,0 +1,9 @@
+
+Make R file in debbie-s-coursera-work…
+
+go to type in term
+
+cd ~/Debbie-s-coursera-work
+git add .
+git commit -m ‘<custom message here>’
+git push origin master
