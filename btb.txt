@@ -5,5 +5,10 @@ go to type in term
 
 cd ~/Debbie-s-coursera-work
 git add .
-git commit -m ‘<custom message here>’
+(git status if you want to check)
+git commit -m ‘custom message here’
 git push origin master
+
+——
+
+if you want to go to this folder in Finder, go to go to folder, and enter ~/Debbie-s-coursera-work
